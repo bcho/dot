@@ -30,6 +30,7 @@ Plug 'mxw/vim-jsx'
 Plug 'flowtype/vim-flow'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'junegunn/fzf.vim'
+Plug 'w0rp/ale'
 call plug#end()
 
 "------------------------------------------------------------------------------
