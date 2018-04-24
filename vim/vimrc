@@ -76,7 +76,7 @@ nnoremap <c-a> <c-w>
 nnoremap <leader>p vi(d<ESC>
 nnoremap <leader>o F>l<ESC>dw<ESC>
 inoremap <leader>i <ESC>viwU<ESC>ea
-nnoremap <leader>q :CtrlP<CR>
+nnoremap <leader>q :Files<CR>
 nnoremap <leader>m :sp term://make<CR>a
 nnoremap <F8> :TagbarToggle<CR>
 nnoremap <silent> <leader>a :ArgWrap<CR>
