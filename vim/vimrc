@@ -44,7 +44,7 @@ set guifont=Monaco:h12
 syntax enable
 let g:solarized_termcolors=256
 colorscheme badwolf
-set statusline=%l/%L
+set statusline=%f\ %y\ %3l/%L
 set guioptions-=m
 set guioptions-=T
 map <silent> <F2> :if &guioptions =~# 'T' <Bar>
