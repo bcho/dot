@@ -36,6 +36,7 @@ set foldmethod=indent
 set hlsearch
 set incsearch
 set nofoldenable
+set maxmempattern=3000
 
 "------------------------------------------------------------------------------
 " theme settings
