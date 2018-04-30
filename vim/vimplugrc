@@ -13,7 +13,7 @@ else
 endif
 
 call plug#begin('~/.vim/plugged')
-Plug 'mattn/emmet-vim', { 'for': 'html' }
+Plug 'mattn/emmet-vim', { 'for': ['html', 'javascript'] }
 Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'othree/html5.vim', { 'for': 'html' }
 Plug 'easymotion/vim-easymotion'
