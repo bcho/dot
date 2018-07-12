@@ -33,6 +33,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'w0rp/ale'
 Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
+Plug 'cespare/vim-toml'
 call plug#end()
 
 "------------------------------------------------------------------------------
