@@ -33,6 +33,7 @@ Plug 'junegunn/fzf.vim'
 Plug 'w0rp/ale'
 Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
+Plug 'Vimjas/vim-python-pep8-indent'
 call plug#end()
 
 "------------------------------------------------------------------------------
