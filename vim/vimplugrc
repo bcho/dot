@@ -35,6 +35,8 @@ Plug 'pangloss/vim-javascript'
 Plug 'leafgarland/typescript-vim'
 Plug 'cespare/vim-toml'
 Plug 'Vimjas/vim-python-pep8-indent'
+Plug 'rakr/vim-one'
+Plug 'NLKNguyen/papercolor-theme'
 call plug#end()
 
 "------------------------------------------------------------------------------

@@ -43,8 +43,10 @@ set maxmempattern=10000
 "------------------------------------------------------------------------------
 set guifont=Monaco:h12
 syntax enable
-let g:solarized_termcolors=256
-colorscheme badwolf
+" let g:solarized_termcolors=256
+" colorscheme badwolf
+colorscheme PaperColor
+set background=dark
 set guioptions-=m
 set guioptions-=T
 map <silent> <F2> :if &guioptions =~# 'T' <Bar>
